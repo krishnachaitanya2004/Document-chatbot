@@ -24,9 +24,4 @@ To run the notebook, follow these steps:
 
 Feel free to explore and experiment with different PDFs to see how the chatbot performs.
 
-## Disclaimer
-
-Keep in mind that the accuracy of the chatbot's responses depends on the content and complexity of the provided PDF. Results may be inaccurate.
-
-Happy chatting with your Document Chatbot!
 
