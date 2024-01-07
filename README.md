@@ -8,11 +8,9 @@ The Document Chatbot is designed to learn from a given PDF and engage in convers
 
 ## How It Works
 
-1. **Provide a PDF:** Feed the chatbot with a PDF document of your choice. The bot will learn from the contents of the document to respond to queries.
-
-2. **Run the Program:** Simply run the provided notebook, specifying the path to your PDF file in the `PyPDFLoader`. A detailed explanation of the code is available within the notebook in the form of comments.
-
-3. **Engage in Conversations:** Once the bot has processed the PDF, you can start chatting with it to ask queries. Be aware that the accuracy of the results may vary.
+1. **Run the Program:** Simply run the provided notebook, specifying the path to your PDF file in the `PyPDFLoader`. A detailed explanation of the code is available within the notebook in the form of comments.
+2. 
+3. **Engage in Conversations:** Once the bot has processed the PDF, you can start chatting with it to ask queries.
 
 ## Running the Program
 
@@ -22,6 +20,5 @@ To run the notebook, follow these steps:
 - Specify the path to your PDF in the `PyPDFLoader` section.
 - Run the cells sequentially.
 
-Feel free to explore and experiment with different PDFs to see how the chatbot performs.
 
 
