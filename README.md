@@ -1,6 +1,6 @@
 # Document Chatbot
 
-This project is a recreation of the [original version](https://www.kaggle.com/discussions/general/436613). Feel free to visit the original link to learn more about the inspiration behind this document chatbot.
+This project is a recreation of the [original version](https://www.kaggle.com/discussions/general/436613). Feel free to visit the original link to learn more about the  document chatbot.
 
 ## Overview
 
